@@ -1,7 +1,7 @@
 [package]
-name = "solana-info"
-version = "0.1.0"
-edition = "2024"
+name = "solana-nfo-database"
+version = "0.1.2"
+edition = "2021"
 
 [dependencies]
 clap = "2.33.3"
