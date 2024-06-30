@@ -17,3 +17,20 @@ As the project evolves, we plan to continuously add new features to increase its
 By providing seamless access to Solana's blockchain data through both CLI and web interfaces, we aspire to enhance the user experience and drive greater adoption of Solana's ecosystem.
 
 #### Command line
+
+- cargo run -- --validators
+- cargo run -- --top-validators
+- cargo run -- --stakes
+
+#### Coming
+
+- cargo run -- --token-info <MINT_TOKEN_ADDRESS>
+
+#### Task
+
+- A testable structure,
+- Modular structure,
+- Token creation,
+- Creating a staking account,
+- Wallet integration,
+- Blink integration
