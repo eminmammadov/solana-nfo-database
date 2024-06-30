@@ -20,7 +20,7 @@ By providing seamless access to Solana's blockchain data through both CLI and we
 
 - cargo run -- --validators
 - cargo run -- --top-validators
-- cargo run -- --stakes
+- cargo run -- --stakes (edit)
 
 #### Coming
 
